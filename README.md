@@ -1,9 +1,9 @@
 # Investment_Advisor_Analysis
-Data analysis of raw Investment Advisor data using Python, SQL,Excel and Tableau
+- Data analysis of raw Investment Advisor data using Python, SQL,Excel and Tableau
 
-Investment Advisors Project.ipynb is python code used to clean interpolate transform and aggregate data
+- Investment Advisors Project.ipynb is python code used to clean interpolate transform and aggregate data
 
-Excel Analysis.xlsx file containg visualizations created from data
+- Excel Analysis.xlsx file containg visualizations created from data
 
 SOME INSIGHTS:
 ![image](https://user-images.githubusercontent.com/49581335/193415914-8e1b207b-090e-4b60-9739-319672c56e7e.png)
